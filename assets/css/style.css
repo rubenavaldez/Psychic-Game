@@ -3,7 +3,7 @@
 
 
 #container {
-    background-image: url(a)
+    background: url(assets/images/yoda.jpg);
 }
     div{
     background-color: none;
