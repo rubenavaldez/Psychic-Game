@@ -1,0 +1,28 @@
+/* CSS Reset */
+*{ margin:0; padding:0; font-size:100%; line-height:1; }
+
+
+#container {
+    background-image: url(a)
+}
+    div{
+    background-color: none;
+    color: white;
+    height: 100%;
+    width:100%;
+    }
+    #yoda {
+    height: 100%;
+    width:100%;
+    Position: realtive;
+    }
+    #textBox {
+    
+    position: absolute;
+    left: 10px;
+    bottom: -90px;
+    font-size: 30pt; 
+    font-weight: bold;   
+    -webkit-text-stroke-width: .75px;
+   -webkit-text-stroke-color: black;
+    }
