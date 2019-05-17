@@ -10,19 +10,19 @@
 
 }
     div{
-    background-color:  rgb(78,119,137);
+    /* background-color:  rgb(78,119,137); */
     color: white;
     height: inherit;
     width: inherit;
     margin-top:
     }
-    /* #yoda {
+     #yoda { 
     height: 100%;
     width:100%;
     Position: realtive;
-    } */
+    } 
     #textBox {    
-    background-image: url("/assets/images/yoda.jpg");
+    /* background-image: url("/assets/images/yoda.jpg"); */
     position: absolute; 
     left: 10px; 
     bottom: -90px;
